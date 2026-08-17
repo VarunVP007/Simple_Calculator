@@ -39,7 +39,7 @@ Simple-Calculator/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/simple-calculator.git
+https://github.com/VarunVP007/Simple_Calculator.git
 ```
 
 2. Open the project folder.
