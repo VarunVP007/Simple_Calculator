@@ -26,20 +26,26 @@ A simple and responsive calculator built using **HTML, CSS, and JavaScript**. Th
 ```text
 Simple-Calculator/
 │
-└── assest
-     └── image.png
+├── asset/
+│   └── image.png
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
 ```
 
+## 🌐 Live Demo
+
+Try the calculator online:
+
+**🔗 [Simple Calculator – Live Demo](https://simple-calculator-virid-xi.vercel.app/)**
+
 ## 🚀 How to Run
 
 1. Clone the repository:
 
 ```bash
-https://github.com/VarunVP007/Simple_Calculator.git
+git clone https://github.com/VarunVP007/Simple_Calculator.git
 ```
 
 2. Open the project folder.
@@ -61,6 +67,7 @@ Through this project, I practiced:
 * Connecting HTML, CSS, and JavaScript
 
 ## 📸 Preview
+
 <img width="1919" height="934" alt="image" src="https://github.com/user-attachments/assets/dd9c00f5-a1ac-4570-853e-130d885909a5" />
 
 ## 🔮 Future Improvements
